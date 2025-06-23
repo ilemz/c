@@ -1,0 +1,20 @@
+﻿ATM
+
+->file io, user interface, 송금, 대출
+->password 암호화, find account
+->환전 -> 환율고정, 현지 돈 계좌, 외국 돈 계좌 $만 존재
+->모든 경우에 대해서 부정 방지
+->계정 추가/제거/변경
+
+deposit, withdraw, check
+
+account, account checker
+
+-------------------------|
+Who are you? : account num/id
+password : password input
+Menu---------------------|
+1.Deposit
+2.Withdraw
+3.Check balance
+-------------------------|
